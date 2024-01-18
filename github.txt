@@ -1,3 +1,4 @@
 ローカルで作成したファイル
 GitHubのリモートリポジトリにPUSH
 ブランチを切ってtest_repo_fixのgithub.txtを編集したよ
+GitHub上でリモートリポジトリのブランチtest_repo_fixを削除してからローカルのtest_repo_fixを再度PUSH
