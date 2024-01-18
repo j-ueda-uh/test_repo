@@ -4,3 +4,4 @@ GitHubのリモートリポジトリにPUSH
 GitHub上でリモートリポジトリのブランチtest_repo_fixを削除してからローカルのtest_repo_fixを再度PUSH
 ローカルリポジトリのmainブランチのgithub.txtを修正して、リモートリポジトリのmainにPUSH
 リモート修正
+ローカル修正②
