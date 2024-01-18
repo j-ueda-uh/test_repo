@@ -1,2 +1,3 @@
 ローカルで作成したファイル
 GitHubのリモートリポジトリにPUSH
+ブランチを切ってtest_repo_fixのgithub.txtを編集したよ
